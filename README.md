@@ -1,4 +1,12 @@
 # Cross-Market-Financial-Models-2020-2030
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Model Type: DCF/ROCE/Valuation](https://img.shields.io/badge/Models-DCF%20%7C%20ROCE%20%7C%20RAPI-blue)
+![Excel Models](https://img.shields.io/badge/Made%20With-Excel-217346?logo=microsoft-excel&logoColor=white)
+![Power BI Ready](https://img.shields.io/badge/PowerBI-Ready-F2C811?logo=powerbi&logoColor=black)
+![Dataset Size-Large](https://img.shields.io/badge/Data-Large-orange)
+![India & US](https://img.shields.io/badge/Coverage-India%20%26%20US-red)
+![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)
+
 This repository contains the complete analytical model used for my cross-market corporate research comparing India and the United States across 11 major sectors. The financial model integrates ROCE-PE analysis, fundamental scorecards, sector heatmaps, risk-return maps, Risk-Adjusted Performance Index, Composite Attractiveness Score models for both economies.
 This repo serves as a transparent, structured view of the analytical backbone used in my research paper "Decoding India and US Corporate Landscape: Cross-Sector Fundamentals and Outlook to 2030".
 # Repository Structure
