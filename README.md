@@ -1,10 +1,35 @@
 # Cross-Market-Financial-Models-2020-2030
 <p align="center">
-  <img src="https://img.shields.io/badge/Repository-Cross--Market--Financial--Models--2020--2030-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/akshatgupta2000/Cross-market-financial-models-2020-2030?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/akshatgupta2000/Cross-market-financial-models-2020-2030?color=green&style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/top/akshatgupta2000/Cross-market-financial-models-2020-2030?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+
+  <!-- Repository Badge -->
+  <img src="https://img.shields.io/badge/Repository-Cross--Market--Financial--Models--2020--2030-blue?style=for-the-badge">
+
+  <!-- License Badge -->
+  <a href="https://github.com/akshatgupta2000/Cross-market-financial-models-2020-2030/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+  </a>
+
+  <!-- Language Badge -->
+  <img src="https://img.shields.io/badge/Language-English-yellow?style=for-the-badge">
+
+  <!-- Status Badge -->
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge">
+
+  <!-- SSRN Status Badge -->
+  <img src="https://img.shields.io/badge/SSRN_Status-Under_Review-orange?style=for-the-badge">
+
+  <!-- Author Badge -->
+  <img src="https://img.shields.io/badge/Author-Akshat_Gupta-red?style=for-the-badge">
+
+  <!-- GitHub Stars Badge -->
+  <img src="https://img.shields.io/github/stars/akshatgupta2000/Cross-market-financial-models-2020-2030?style=for-the-badge&color=blue">
+
+  <!-- Forks Badge -->
+  <img src="https://img.shields.io/github/forks/akshatgupta2000/Cross-market-financial-models-2020-2030?style=for-the-badge&color=lightgrey">
+
+  <!-- Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=Cross-market-financial-models-2020-2030&style=for-the-badge">
+
 </p>
 
 This repository contains the complete analytical model used for my cross-market corporate research comparing India and the United States across 11 major sectors. The financial model integrates ROCE-PE analysis, fundamental scorecards, sector heatmaps, risk-return maps, Risk-Adjusted Performance Index, Composite Attractiveness Score models for both economies.
